@@ -14,7 +14,7 @@
 
 <br><br>
 
-![preview](/preview.gif)
+![preview](/github/preview.gif)
 
 <hr>
 <br>

@@ -14,7 +14,11 @@
 
 <br><br>
 
-![preview](/github/preview.gif)
+
+
+https://github.com/user-attachments/assets/68a1da8a-b762-466c-9c6d-a9a2891801e2
+
+
 
 <hr>
 <br>

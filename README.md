@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://livebook.dev/run?url=https%3A%2F%2Fmrpopov.com%2Fposts%2Fsingle-file-chat-in-elixir-phoenix%2Fphoenix-dirty-chat.livemd">
-    <img src="https://livebook.dev/badge/v1/black.svg" alt="Run in Livebook" />
+    <img src="https://livebook.dev/badge/v1/blue.svg" alt="Run in Livebook" />
   </a>
 </p>
 
